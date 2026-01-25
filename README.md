@@ -31,6 +31,7 @@
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
+![typing-python](https://github.com/user-attachments/assets/266ef5ec-839d-41a3-8220-bb842db9965a)
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
