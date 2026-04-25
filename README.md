@@ -1,18 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:40e0d0,50:ff8c00,100:ff0080&height=300&section=header&text=Let's%20Grow%20Together!&fontSize=60&fontColor=FFF&animation=fadeIn&fontAlignY=42)
 
 <!-- 움직이는 기술스택 아이콘 -->
-<p align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="70" height="70" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="70" />
-  <img src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67" alt="redis" width="60" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/django-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="70" /></td>
+    <td><img src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67" width="60" /></td>
+  </tr>
+</table>
 
     
 
