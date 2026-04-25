@@ -12,11 +12,9 @@
     <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" /></td>
     <td><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="70" height="70" /></td>
     <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" height="70" /></td>
-    <td><img src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67" width="60" /></td>
+    <td><img src="https://cdn.simpleicons.org/redis/DC382D" alt="redis" width="70" height="70" /></td>
   </tr>
 </table>
-
-    
 
 <!-- 자기소개 페이지 -->
 <h1>
